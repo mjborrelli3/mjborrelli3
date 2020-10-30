@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 and Welcome to my README page on GitHub
 
-<!--
-**mjborrelli3/mjborrelli3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Below is a little bit about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🏠 Hometown ... Westchester, New York
+- 🔭 I’m currently ... Studying at Binghatmon University
+- 🌱 I’m learning ... How to web scrape, and use HTML/CSS
+- 🤔 I’m looking for help with ... Resume bulding!
+- 💬 Ask me about ... My plans for the future
+- 📫 How to reach me: ... mjborrelli3@gmail.com
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... Baseball is my favorite sport, and the Yankees are my favorite team!
+-  🍞🥞 Favorite food ... Steak
 -->
