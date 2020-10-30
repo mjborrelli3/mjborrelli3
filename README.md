@@ -7,6 +7,7 @@ Below is a little bit about me:
 - 🌱 I’m learning ... How to web scrape, and use HTML/CSS
 - 🤔 I’m looking for help with ... Resume bulding!
 - 💬 Ask me about ... My plans for the future
+- 📲 Follow my Instagram ... @mikeborrelli_
 - 📫 How to reach me: ... mjborrelli3@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Baseball is my favorite sport, and the Yankees are my favorite team!
