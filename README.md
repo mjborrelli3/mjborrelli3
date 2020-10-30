@@ -1,4 +1,4 @@
-### Hi there 👋 and Welcome to my README page on GitHub
+### Hi there 😁😁 and Welcome to my README page on GitHub
 
 Below is a little bit about me:
 
